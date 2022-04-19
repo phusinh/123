@@ -1,0 +1,23 @@
+{
+  "revision": "Wed May  4 15:04:01 2016",
+  "customerName": "Acme",
+  "coverageZones": {
+    "www": {
+      "network6": [
+        "2001:DEAD:BEEF:0::/48",
+        "2001:CAFE:F00D:0::/37",
+        "2601:AC1D:0::/26"
+      ],
+      "network": [
+        "12.34.0.0/24",
+        "111.222.0.0/24",
+        "100.0.0.0/16",
+        "10.0.0.0/20"
+      ],
+      "coordinates": {
+        "longitude": "-106.480250",
+        "latitude": "39.117800"
+      }
+    }
+  }
+}
